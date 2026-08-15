@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purchase_dialog_button_text">#4bb88c</color>
+    <color name="purchase_button_tint">#01875F</color>
+</resources>
