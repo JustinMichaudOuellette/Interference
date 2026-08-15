@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interférence</string>
+    <string name="none">None</string>
+    <string name="sawtooth">Sawtooth</string>
+    <string name="square">Square</string>
+    <string name="sine">Sine</string>
+    <string name="triangle">Triangle</string>
+    <string name="min_hz">Min Hz</string>
+    <string name="max_hz">Max Hz</string>
+    <string name="info">Info</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+    <string name="stairs_off">/</string>
+    <string name="stairs_on">%</string>
+    <string name="exponential">Exponential</string>
+    <string name="distortion">Distortion</string>
+    <string name="demo_start_message">Purchase premium for unlimited play time or continue with limit.</string>
+    <string name="action_purchase">Purchase</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_ok">OK</string>
+    <string name="tooltip">Select a waveform to play</string>
+    <string name="about_description">A wave interference generator for Android.</string>
+
+    <!-- Library internalized strings -->
+    <string name="version_label">Version %1$s</string>
+    <string name="btn_share">Share</string>
+    <string name="share_message_template">Check out %1$s: %2$s</string>
+    <string name="title_about">About</string>
+</resources>
